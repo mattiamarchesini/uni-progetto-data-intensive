@@ -1,3 +1,3 @@
-# Porgetto Data-Intensive
+# Progetto Data-Intensive
 
 Progetto data intensive per Università
